@@ -1,4 +1,4 @@
-# Aorta AI: Predicting Post-Operative Complication Risk After Aortic Surgery
+# Aorta AI: Predicting Post-Operative Complication Risk After AAA Surgery
 
 > Machine Learning models to predict the risk of post-operative complications in patients with aortic (aorta) disease, helping the clinical team assess patient risk and make informed decisions before and after surgery.
 
