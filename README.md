@@ -7,7 +7,7 @@ Afeka College of Engineering
 
 | | |
 |---|---|
-| **Authors** | Anael Maimon, Daniel Berih |
+| **Authors** | Anaelle Meimoun, Daniel Berrih |
 | **Client** | Dr. Maysam Shehab — Senior Vascular & Endovascular Surgeon, Aortic Fellow, Uppsala University Hospital |
 | **Academic supervisor** | Dr. Sharon Yalov-Handzel |
 
